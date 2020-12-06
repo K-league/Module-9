@@ -1,0 +1,45 @@
+1. PHP Developer fully remote (m / f / d) - Inpsyde GmbH 
+1. WooCommerce - WooCommerce is an open-source e-commerce plugin for WordPress. It is designed for small to large-sized online merchants using WordPress. 
+
+
+2. SAP Business One - SAP Business One is business management software designed for small and medium-sized enterprises, sold by the German company SAP SE. As an ERP solution, it aims to automate key business functions in financials, operations, and human resources.
+
+
+3. BackWPup - The backup plugin BackWPup can be used to save your complete installation including /wp-content/ and push them to an external Backup Service, like Dropbox, S3, FTP and many more, see list below. With a single backup .zip file you are able to easily restore an installation.
+
+
+4. MultilingualPress - translation software
+
+
+5. Stack Exchange - Stack Exchange is a network of question-and-answer websites on topics in diverse fields, each site covering a specific topic, where questions, answers, and users are subject to a reputation award process. The reputation system allows the sites to be self-moderating.
+
+
+6. SVN - Apache Subversion is a software versioning and revision control system distributed as open source under the Apache License. Software developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation.
+
+
+7. Dependency management via Composer - Managing your dependencies manually in any programming language is a huge pain. This is why in most programming languages today you will find that they all have some implementation of a dependency management system or sometimes a package manger. Composer is the dependency management system that you will find inside most modern PHP projects.
+
+
+8. REST API - Representational state transfer is a software architectural style that defines a set of constraints to be used for creating Web services. Web services that conform to the REST architectural style, called RESTful Web services, provide interoperability between computer systems on the internet.
+
+
+9. SOAP - SOAP is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality, verbosity and independence.
+
+
+10. JIRA - (Premium part of Atlassian) For many teams, Jira Software is a mission-critical tool to plan, track, release, and report on work. With Jira Software Premium, you can rest easy knowing that you have the right foundation on which to grow
+
+
+11. Atlassian - Atlassian Corporation Plc is an Australian software company that develops products for software developers and project managers
+
+
+12. Confluence - Confluence is a web-based corporate wiki developed by Australian software company Atlassian. Atlassian wrote Confluence in the Java programming language and first published it in 2004. Confluence Standalone comes with a built-in Tomcat web server and hsql database, and also supports other databases.
+___________________________________
+2. Node.js Developer
+APIs - is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API mulesoft.com
+asynchronous Javascript - Functions running in parallel with other functions are called asynchronous. A good example is JavaScript setTimeout() w3school
+
+Wikipedia Rabbit Hole:
+Memoization - is an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again. 
+
+
+Dynamic Programming -  refers to simplifying a complicated problem by breaking it down into simpler sub-problems in a recursive manner. While some decision problems cannot be taken apart this way, decisions that span several points in time do often break apart recursively. Likewise, in computer science, if a problem can be solved optimally by breaking it into sub-problems and then recursively finding the optimal solutions to the sub-problems, then it is said to have optimal substructure.
